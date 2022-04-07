@@ -1,0 +1,19 @@
+{
+  "name": "liquidice_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "truffle": "^5.5.7",
+    "truffle-flattener": "^1.6.0",
+    "truffle-plugin-verify": "^0.5.25"
+  }
+}
